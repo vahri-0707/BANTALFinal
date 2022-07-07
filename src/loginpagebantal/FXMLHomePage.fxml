@@ -183,7 +183,7 @@
                   </DropShadow>
                </effect>
             </Button>
-            <Text layoutX="264.0" layoutY="33.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dengan berkonsultasi, kamu &#10;dapat lebih mudah untuk &#10;menyelesaikan masalahmu, &#10;kami menjamin privasi anda &#10;tetap terjaga." textAlignment="JUSTIFY">
+            <Text layoutX="264.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Dengan berkonsultasi, kamu &#10;dapat lebih mudah untuk &#10;menyelesaikan masalahmu, &#10;kami menjamin privasi anda &#10;tetap terjaga." textAlignment="JUSTIFY">
                <font>
                   <Font name="PT Sans" size="15.0" />
                </font>
