@@ -4,6 +4,7 @@
  */
 package loginpagebantal;
 
+
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.StaxDriver;
 import java.io.File;
@@ -236,3 +237,4 @@ public class FXMLmemantauPerkembanganChartController implements Initializable {
 //        dataKonsultasi.getData().add(new XYChart.Data("konsultasi" , 7));
 //        
 //        bcGejalaKunjung.getData().addAll(datagejala, dataKonsultasi);
+

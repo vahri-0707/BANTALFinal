@@ -6,6 +6,7 @@ package loginpagebantal;
 
 import com.thoughtworks.xstream.XStream;
 import com.thoughtworks.xstream.io.xml.StaxDriver;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -115,3 +116,33 @@ public class TableKonsultasiController implements Initializable {
       TableKonsultasi.setItems(datakonsultasi);
     }
 }
+  
+        
+        
+        
+        
+//        try{
+//            berkasMasuk = new FileInputStream ("dataKonsultasi.xml");
+//            int isi;
+//            char c;
+//            String s = "";
+//            while ((isi = berkasMasuk.read()) != -1){
+//                c= (char) isi;
+//                s = s+ c;
+//            }
+//            datak = (DataArray) xstream.fromXML(s);
+//            berkasMasuk.close();
+//        } catch (Exception e){
+//            System.err.println("Terjadi kesalahan " + e.getMessage());
+//        }
+//        
+//        datak.showData();
+//        System.out.println("");
+        
+        
+        
+        
+        
+      
+      
+
